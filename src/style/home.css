@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+
+:root {
+    --type-bug: #A6B91A;
+    --type-dark: #705746;
+    --type-dragon: #6F35FC;
+    --type-electric: #F7D02C;
+    --type-fairy: #D685AD;
+    --type-fighting: #C22E28;
+    --type-fire: #EE8130;
+    --type-flying: #A98FF3;
+    --type-ghost: #735797;
+    --type-grass: #7AC74C;
+    --type-ground: #E2BF65;
+    --type-ice: #96D9D6;
+    --type-normal: #A8A77A;
+    --type-poison: #A33EA1;
+    --type-psychic: #F95587;
+    --type-rock: #B6A136;
+    --type-steel: #B7B7CE;
+    --type-water: #6390F0;
+}
