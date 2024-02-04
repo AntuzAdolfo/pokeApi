@@ -1,0 +1,11 @@
+{
+  "name": "pokeapi",
+  "version": "1.0.0",
+  "description": "**A modo de práctica quiero probar mi nivel actual en desarrollo web.**  Entonces decidí darle un intento a este tan conocido proyecto.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
