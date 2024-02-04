@@ -1,5 +1,5 @@
 # Hola comunidad, esto es pokeApi por Antuz Adolfo
-** A modo de práctica quiero probar mi nivel actual en desarrollo web. ** 
+**A modo de práctica quiero probar mi nivel actual en desarrollo web.** 
 Entonces decidí darle un intento a este tan conocido proyecto.
 
 ## Tecnologías a usar
