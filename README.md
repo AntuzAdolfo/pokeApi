@@ -8,4 +8,5 @@ Entonces decidí darle un intento a este tan conocido proyecto.
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Detalles del Proyecto
-Decidí hacer la barra de navegación de tipos de Pokémon por orden alfabético para facilitar encontrar el tipo que el usuario quiera.
+Decidí hacer la barra de navegación de tipos de Pokémon por orden alfabético para facilitar al usuario el tipo que quiera encontrar.
+Agregué distintos filtros para mostrar todos los Pokémons por número, orden alfabético y estadísitcas.
